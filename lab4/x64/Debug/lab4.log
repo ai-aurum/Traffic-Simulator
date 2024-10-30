@@ -1,0 +1,11 @@
+﻿  Main.cpp
+E:\cpp programming\labs\lab4\Main.cpp(63,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\cpp programming\labs\lab4\Main.cpp(105,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\cpp programming\labs\lab4\Main.cpp(150,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\cpp programming\labs\lab4\Main.cpp(192,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\cpp programming\labs\lab4\Main.cpp(231,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\cpp programming\labs\lab4\Main.cpp(276,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\cpp programming\labs\lab4\Main.cpp(318,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\cpp programming\labs\lab4\Main.cpp(359,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\cpp programming\labs\lab4\Main.cpp(396,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  lab4.vcxproj -> E:\cpp programming\labs\lab4\x64\Debug\lab4.exe
